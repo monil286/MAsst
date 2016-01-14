@@ -1,0 +1,13 @@
+c:\users\monil\documents\visual studio 2015\Projects\MAsst\MAsst\bin\Debug\MAsst.exe.config
+c:\users\monil\documents\visual studio 2015\Projects\MAsst\MAsst\bin\Debug\MAsst.exe
+c:\users\monil\documents\visual studio 2015\Projects\MAsst\MAsst\bin\Debug\MAsst.pdb
+c:\users\monil\documents\visual studio 2015\Projects\MAsst\MAsst\obj\Debug\MAsst.Home.resources
+c:\users\monil\documents\visual studio 2015\Projects\MAsst\MAsst\obj\Debug\MAsst.Properties.Resources.resources
+c:\users\monil\documents\visual studio 2015\Projects\MAsst\MAsst\obj\Debug\MAsst.csproj.GenerateResource.Cache
+c:\users\monil\documents\visual studio 2015\Projects\MAsst\MAsst\obj\Debug\MAsst.exe
+c:\users\monil\documents\visual studio 2015\Projects\MAsst\MAsst\obj\Debug\MAsst.pdb
+C:\Users\Monil\Documents\Visual Studio 2015\Projects\MAsst\MAsst\obj\Debug\MAsst.AddUser.resources
+C:\Users\Monil\Documents\Visual Studio 2015\Projects\MAsst\MAsst\obj\Debug\MAsst.Diary.resources
+C:\Users\Monil\Documents\Visual Studio 2015\Projects\MAsst\MAsst\obj\Debug\MAsst.SelectAction.resources
+C:\Users\Monil\Documents\Visual Studio 2015\Projects\MAsst\MAsst\obj\Debug\MAsst.Tasks.resources
+C:\Users\Monil\Documents\Visual Studio 2015\Projects\MAsst\MAsst\obj\Debug\MAsst.Reminder.resources
